@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Hi, I'm Vitor, a software engineering student and Programming Monitor at Universidade de Ribeirão Preto in Brazil.<br><br>Currently, my main interests are:<br><br>Back-end development<br>AI & Machine Learning<br>Startups and innovation</p>
+<p align="left">Hi, I'm Vitor, a software engineering student and Programming Monitor at Universidade de Ribeirão Preto in Brazil.<br><br>Currently, my main interests are:<br><br>Back-end development<br>AI<br>Startups and innovation</p>
 
 ###
 
