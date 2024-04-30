@@ -39,6 +39,6 @@
 <div align="center">
 
   
-</div><h3 align="left">Stars</h3>
+</div><h3 align="left">Stats</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorMoo&layout=compact&theme=dark" alt=VitorMoo />
 
