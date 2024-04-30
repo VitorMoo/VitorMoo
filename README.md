@@ -39,7 +39,6 @@
 <div align="center">
 
   
-<div> <a href="https://github.com/VitorMoo" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorMoo&layout=compact&theme=" alt=VitorMoo />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorMoo&layout=compact&theme=dark" alt=VitorMoo />
 
