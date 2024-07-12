@@ -11,7 +11,7 @@
 
 ###
 ## My name is Vitor Moreira
-(Java | Spring Boot | MySql | C++ | Python) 🚀
+(Java | Spring Boot | MySql | C++ ) 🚀
 -  Software Developer Intern 
 - Software Engineering Student @ [UNAERP](https://www.unaerp.br//)
 
