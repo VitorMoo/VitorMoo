@@ -12,7 +12,7 @@
 ###
 ## My name is Vitor Moreira
 (Java | Spring Boot | MySql | C++ )
--  Software Developer Intern  @ [Techno Software](https://technosoftware.com.br/)
+- Developer Intern  @ [Smarthis](https://smarthis.com/)
 - Software Engineering Student @ [UNAERP](https://www.unaerp.br//)
 
 
