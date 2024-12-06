@@ -1,4 +1,4 @@
-<h1>Hey, im Vitor Moreira! 👋</h1>
+<h1>Hey, I'm Vitor Moreira! 👋</h1>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/vitornmoreira/" target="_blank">
