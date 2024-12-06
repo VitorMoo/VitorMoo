@@ -1,4 +1,4 @@
-<h1>Hi There! 👋</h1>
+<h1>Hey, im Vitor Moreira! 👋</h1>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/vitornmoreira/" target="_blank">
@@ -10,8 +10,6 @@
 </div>
 
 ###
-## My name is Vitor Moreira
-(Java | Spring Boot | MySql | C++ )
 - Developer Intern  @ [Smarthis](https://smarthis.com/)
 - Software Engineering Student @ [UNAERP](https://www.unaerp.br//)
 
