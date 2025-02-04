@@ -10,7 +10,6 @@
 </div>
 
 ###
-- Developer Intern  @ [Smarthis](https://smarthis.com/)
 - Software Engineering Student @ [UNAERP](https://www.unaerp.br//)
 
 
