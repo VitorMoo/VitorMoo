@@ -17,9 +17,6 @@
 
 
 ---
-
-### Tech Stack
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
@@ -34,9 +31,6 @@
 </div>
 
 ---
-
-### GitHub Stats
-
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VitorMoo&layout=compact&langs_count=6&theme=dracula" height="150" alt="Top Languages" />
 </div>
