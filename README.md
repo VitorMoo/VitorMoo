@@ -31,10 +31,5 @@
 </div>
 
 ---
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VitorMoo&layout=compact&langs_count=6&theme=dracula" height="150" alt="Top Languages" />
-</div>
-
 ---
 
